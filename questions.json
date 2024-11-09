@@ -1,0 +1,296 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which of the following is a complete sentence?",
+    "options": [
+      "Running through the park.",
+      "The dog barked loudly.",
+      "Beautiful flowers in the garden.",
+      "After a long day."
+    ],
+    "correct": 1,
+    "explanation": "This is a complete sentence because it has both a subject (The dog) and a predicate (barked loudly). It expresses a complete thought."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Identify the fragment:",
+    "options": [
+      "She completed her homework.",
+      "They went to the movies.",
+      "Singing in the rain.",
+      "The cat slept on the windowsill."
+    ],
+    "correct": 2,
+    "explanation": "This is a fragment because it lacks a subject. We don't know who is singing in the rain, making it an incomplete thought."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which sentence is a run-on?",
+    "options": [
+      "I love pizza it's my favourite food.",
+      "I love pizza, and it's my favourite food.",
+      "I love pizza. It's my favourite food."
+    ],
+    "correct": 0,
+    "explanation": "This is a run-on because it combines two independent clauses without proper punctuation or a connecting word."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "How can you fix this fragment: <br>\"Jumping over the fence\"?",
+    "options": [
+      "Add a full stop at the end.",
+      "Add a subject: \"The dog was jumping over the fence.\"",
+      "Remove \"over the fence.\"",
+      "Change \"jumping\" to \"jumped.\""
+    ],
+    "correct": 1,
+    "explanation": "Adding a subject (The dog) turns this fragment into a complete sentence by providing who is performing the action."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which is the correct way to fix this run-on:<br> \"It's raining hard we should stay inside\"?",
+    "options": [
+      "It's raining hard we should stay inside.",
+      "It's raining hard we should stay inside.",
+      "It's raining hard, so we should stay inside.",
+      "It's raining hard stay inside."
+    ],
+    "correct": 2,
+    "explanation": "This fixes the run-on by adding a comma and the coordinating conjunction 'so' to properly connect the two independent clauses."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Identify the complete sentence:",
+    "options": [
+      "When the sun sets.",
+      "Colourful balloons floating.",
+      "She baked a delicious chocolate cake.",
+      "After the party ended."
+    ],
+    "correct": 2,
+    "explanation": "This is a complete sentence with a subject (She) and a predicate (baked a delicious chocolate cake). It expresses a complete thought."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which is a fragment?",
+    "options": [
+      "The movie was exciting.",
+      "We enjoyed the show.",
+      "At the end of the day.",
+      "They celebrated their victory."
+    ],
+    "correct": 2,
+    "explanation": "This is a fragment because it's a prepositional phrase without a subject or predicate. It doesn't express a complete thought on its own."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Identify the run-on sentence:",
+    "options": [
+      "I like apples, but I prefer oranges.",
+      "I like apples I prefer oranges.",
+      "I like apples. I prefer oranges.",
+      "I like apples; however, I prefer oranges."
+    ],
+    "correct": 1,
+    "explanation": "This is a run-on because it combines two independent clauses without proper punctuation or a connecting word."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "How can you fix this fragment: <br>\"Because it was raining\"?",
+    "options": [
+      "Add a full stop at the end.",
+      "Remove 'Because.'",
+      "Make it a complete thought: 'Because it was raining, we stayed inside.'",
+      "Change 'was' to 'is.'"
+    ],
+    "correct": 2,
+    "explanation": "Adding an independent clause completes the thought, turning the dependent clause into a complete sentence."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which sentence uses correct punctuation to avoid a run-on?",
+    "options": [
+      "The sun was shining the birds were singing.",
+      "The sun was shining, the birds were singing.",
+      "The sun was shining, and the birds were singing.",
+      "The sun was shining birds were singing."
+    ],
+    "correct": 2,
+    "explanation": "This sentence correctly uses a comma and the coordinating conjunction 'and' to join two independent clauses, avoiding a run-on."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Identify the complete sentence:",
+    "options": [
+      "Under the big oak tree.",
+      "At the funny joke.",
+      "The children played in the park.",
+      "During the summer vacation."
+    ],
+    "correct": 2,
+    "explanation": "This is a complete sentence with a subject (The children) and a predicate (played in the park). It expresses a complete thought."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which is a fragment?",
+    "options": [
+      "She sang beautifully.",
+      "The audience applauded after the show.",
+      "We enjoyed the concert.",
+      "After the performance ended."
+    ],
+    "correct": 3,
+    "explanation": "This is a fragment because it's a dependent clause that doesn't express a complete thought on its own. It lacks a main clause to make it a complete sentence."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Identify the run-on sentence:",
+    "options": [
+      "I love reading books I enjoy watching movies too.",
+      "I love reading books, and I enjoy watching movies too.",
+      "I love reading books. I enjoy watching movies too."
+    ],
+    "correct": 0,
+    "explanation": "This is a run-on because it combines two independent clauses without proper punctuation or a connecting word."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "How can you fix this fragment:<br> \"Sleeping on the couch\"?",
+    "options": [
+      "Add a full stop at the end.",
+      "Add a subject: 'The cat was sleeping on the couch.'",
+      "Remove 'on the couch.'"
+    ],
+    "correct": 1,
+    "explanation": "Adding a subject (The cat) turns this fragment into a complete sentence by providing who is performing the action."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which is the correct way to fix this run-on: <br>\"It's getting late we should go home\"?",
+    "options": [
+      "It's getting late should go home.",
+      "It's getting late we should go home.",
+      "It's getting late. We should go home.",
+      "It's getting late go home."
+    ],
+    "correct": 2,
+    "explanation": "This fixes the run-on by separating the two independent clauses into two separate sentences using a full stop."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Identify the complete sentence:",
+    "options": [
+      "In the middle of the night.",
+      "Dinner for the family.",
+      "The stars twinkled in the sky.",
+      "Before the big game started."
+    ],
+    "correct": 2,
+    "explanation": "This is a complete sentence with a subject (The stars) and a predicate (twinkled in the sky). It expresses a complete thought."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which is a fragment?",
+    "options": [
+      "The dog chased the ball.",
+      "We went to the store.",
+      "Although it was raining.",
+      "She finished her homework."
+    ],
+    "correct": 2,
+    "explanation": "This is a fragment because it's a dependent clause that doesn't express a complete thought on its own. It needs an independent clause to make it a complete sentence."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Identify the run-on sentence:",
+    "options": [
+      "The cake was delicious everyone wanted seconds.",
+      "The cake was delicious, and everyone wanted seconds.",
+      "The cake was delicious. Everyone wanted seconds."
+    ],
+    "correct": 0,
+    "explanation": "This is a run-on because it combines two independent clauses without proper punctuation or a connecting word."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "How can you fix this fragment:<br> \"While watching TV\"?",
+    "options": [
+      "Add a full stop at the end.",
+      "Make it a complete thought: \"While watching TV, I fell asleep.\"",
+      "Remove \"While.\"",
+      "Change \"watching\" to \"watched.\""
+    ],
+    "correct": 1,
+    "explanation": "Adding an independent clause completes the thought, turning the dependent clause into a complete sentence."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which sentence uses correct punctuation to avoid a run-on?",
+    "options": [
+      "I love chocolate I hate vanilla.",
+      "I love chocolate, I hate vanilla.",
+      "I love chocolate, but I hate vanilla."
+    ],
+    "correct": 2,
+    "explanation": "This sentence correctly uses a comma and the coordinating conjunction 'but' to join two independent clauses, avoiding a run-on."
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "Identify the complete sentence:",
+    "options": [
+      "After the storm passed.",
+      "The flowers bloomed in spring.",
+      "To catch the bus.",
+      "Because of the heavy traffic."
+    ],
+    "correct": 1,
+    "explanation": "This is a complete sentence with a subject (The flowers) and a predicate (bloomed in spring). It expresses a complete thought."
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "Which is a fragment?",
+    "options": [
+      "The car broke down.",
+      "We called for help.",
+      "On the side of the road.",
+      "The mechanic arrived quickly."
+    ],
+    "correct": 2,
+    "explanation": "This is a fragment because it's a prepositional phrase without a subject or predicate. It doesn't express a complete thought on its own."
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "How can you fix this fragment: <br>\"Waiting for the bus\"?",
+    "options": [
+      "Add a full stop at the end.",
+      "Add a subject: \"The students were waiting for the bus.\"",
+      "Remove \"for the bus.\"",
+      "Change \"waiting\" to \"waited.\""
+    ],
+    "correct": 1,
+    "explanation": "Adding a subject (The students) turns this fragment into a complete sentence by providing who is performing the action."
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "Identify the complete sentence:",
+    "options": [
+      "When the bell rang.",
+      "On a hot day.",
+      "During the class presentation.",
+      "The teacher assigned homework."
+    ],
+    "correct": 3,
+    "explanation": "This is a complete sentence with a subject (The teacher) and a predicate (assigned homework). It expresses a complete thought."
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "Identify the run-on sentence:",
+    "options": [
+      "I love swimming I hate running.",
+      "I love swimming, but I hate running.",
+      "I love swimming. I hate running."
+    ],
+    "correct": 0,
+    "explanation": "This is a run-on because it combines two independent clauses without proper punctuation or a connecting word."
+  }
+]
